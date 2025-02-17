@@ -13,7 +13,7 @@ By understanding trends and identifying areas for improvement, stakeholders can 
 ## 📈 Week-over-Week Wins:
 
 Revenue Surge: Delighted to report a remarkable 28.8% surge in revenue, a testament to our team's dedication and market agility.
-Transaction Momentum: Total Transaction Amount & Count saw impressive upticks, driving our mission of delivering value and efficiency.
+Transaction Momentum: Total Transaction Amount & Count saw an impressive upticks, driving our mission of delivering value and efficiency.
 Expanding Community: Welcomed a significant increase in customer count, illustrating our commitment to nurturing meaningful connections and fostering growth.
 
 ## 🌟 Year-to-Date Overview:
